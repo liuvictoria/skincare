@@ -29,6 +29,7 @@ Your results will be created in a new file (same directory) called `alarms_resul
 * Each bad ingredient should be on its own line. 
 * Each bad ingredient must be lower-case; otherwise, the program will not pick up a match.
 * Please refer to the [example bad_actors.txt file](https://github.com/liuvictoria/skincare/blob/master/bad_actors.txt)
+* Do not have any empty lines
 
 ## Results
 Please refer to the [example alarms_results.txt file](https://github.com/liuvictoria/skincare/blob/master/alarms_results.txt). This is the result from the example bad_actors.txt file, linked above.
