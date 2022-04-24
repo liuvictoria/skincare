@@ -21,7 +21,7 @@ Your results will be created in a new file (same directory) called `alarms_resul
 #### ingredients.txt
 * Each product should take up two lines. 
 * The first line is of the format "====PRODUCT NAME HERE====". Please do not forget the four equal signs on each side of the product name.
-* The second line consists of a comma-separated list of ingredients. The ingredients should be ONE LINE (i.e. don't return carriage anywhere in the list. The script will not work if there is a return carriage in the middle of the list).
+* The second line consists of a comma-separated list of ingredients. The ingredients should be ONE LINE (i.e. don't return carriage anywhere in the list. The script will not work if there is a return carriage in the middle of the list). For example, you may need to copy/paste active vs inactive ingredients together, on the same line.
 * Different products should be separated by a blank line.
 * Please refer to the [example ingredients.txt file](https://github.com/liuvictoria/skincare/blob/master/ingredients.txt)
 
