@@ -21,3 +21,10 @@ Ingredient Name:  Trisodium Edta
     Potential Alarm: edta
 
 
+====SUPERGOOP Unseen Sunscreen SPF 40====
+Ingredient Name: Avobenzone
+    Potential Alarm: avobenzone
+Ingredient Name:  Meadowfoam Estolide
+    Potential Alarm: mea
+
+
