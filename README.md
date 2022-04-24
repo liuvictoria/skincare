@@ -31,4 +31,4 @@ Your results will be created in a new file (same directory) called `alarms_resul
 * Please refer to the [example bad_actors.txt file](https://github.com/liuvictoria/skincare/blob/master/bad_actors.txt)
 
 ## Result
-Please refer to the [example alarms_results.txt file](https://github.com/liuvictoria/skincare/blob/master/alarm_results.txt). This is the result from the example bad_actors.txt file, linked above.
+Please refer to the [example alarms_results.txt file](https://github.com/liuvictoria/skincare/blob/master/alarms_results.txt). This is the result from the example bad_actors.txt file, linked above.
