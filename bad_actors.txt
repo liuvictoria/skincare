@@ -1,0 +1,42 @@
+fragrance
+perfume
+parfum
+phthalate
+dbp
+dehp
+dep
+paraben
+peg
+polyethylene glycol
+ethylene oxide
+14-dioxane
+retinol
+formaldehyde
+quaternium-15
+dmdm hydantoin
+imidazolidinyl urea
+diazolidinyl urea
+hydroxymethylglycinate
+2-bromo-2-nitropropane-13 diol
+bronopol
+sls
+lauryl sulfate
+sles
+sodium laureth sulfate
+triclosan
+triclocarban
+bha
+bht
+coal
+edta
+mea
+dea
+hydroquinone
+methylisothiazolinone
+methylchloroisothiazolinone
+toluene
+lead
+octinoxate
+oxybenzone
+avobenzone
+benzalkonium chloride

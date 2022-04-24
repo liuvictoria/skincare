@@ -1,0 +1,23 @@
+====BELIF THE TRUE CREAM - AQUA BOMB====
+Ingredient Name:  PEG/PPG/Polybutylene Glycol-8/5/3 Glycerin
+    Potential Alarm: peg
+Ingredient Name:  PEG-150
+    Potential Alarm: peg
+Ingredient Name:  PEG-40 Hydrogenated Castor Oil
+    Potential Alarm: peg
+Ingredient Name:  PEG-100 Stearate
+    Potential Alarm: peg
+Ingredient Name:  Trisodium EDTA
+    Potential Alarm: edta
+Ingredient Name:  Fragrance+
+    Potential Alarm: fragrance
+
+
+====WELL PEOPLE Dewy Juice Hydrating Aloe Essence====
+None of the ingredients raise alarms
+
+====Clinique Dramatically Different Moisturizing Lotion+====
+Ingredient Name:  Trisodium Edta
+    Potential Alarm: edta
+
+
