@@ -30,5 +30,7 @@ Your results will be created in a new file (same directory) called `alarms_resul
 * Each bad ingredient must be lower-case; otherwise, the program will not pick up a match.
 * Please refer to the [example bad_actors.txt file](https://github.com/liuvictoria/skincare/blob/master/bad_actors.txt)
 
-## Result
+## Results
 Please refer to the [example alarms_results.txt file](https://github.com/liuvictoria/skincare/blob/master/alarms_results.txt). This is the result from the example bad_actors.txt file, linked above.
+
+__NOTE: You might notice that "Meadowfoam Estolide" is raised as a potential alarm for SUPERGOOP Unseen Sunscreen SPF 40. This is because "MEA" was detected in the string "Meadowfoam Estolide". However, by visual inspection, it's pretty obvious that "Meadowfoam Estolide" is not MEA. So take the results with a grain of salt!__
