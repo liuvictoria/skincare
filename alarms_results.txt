@@ -1,15 +1,15 @@
 ====BELIF THE TRUE CREAM - AQUA BOMB====
-Ingredient Name:  PEG/PPG/Polybutylene Glycol-8/5/3 Glycerin
+Ingredient Name: PEG/PPG/Polybutylene Glycol-8/5/3 Glycerin
     Potential Alarm: peg
-Ingredient Name:  PEG-150
+Ingredient Name: PEG-150
     Potential Alarm: peg
-Ingredient Name:  PEG-40 Hydrogenated Castor Oil
+Ingredient Name: PEG-40 Hydrogenated Castor Oil
     Potential Alarm: peg
-Ingredient Name:  PEG-100 Stearate
+Ingredient Name: PEG-100 Stearate
     Potential Alarm: peg
-Ingredient Name:  Trisodium EDTA
+Ingredient Name: Trisodium EDTA
     Potential Alarm: edta
-Ingredient Name:  Fragrance+
+Ingredient Name: Fragrance+
     Potential Alarm: fragrance
 
 
@@ -17,14 +17,39 @@ Ingredient Name:  Fragrance+
 None of the ingredients raise alarms
 
 ====Clinique Dramatically Different Moisturizing Lotion+====
-Ingredient Name:  Trisodium Edta
+Ingredient Name: Trisodium Edta
     Potential Alarm: edta
 
 
 ====SUPERGOOP Unseen Sunscreen SPF 40====
 Ingredient Name: Avobenzone
     Potential Alarm: avobenzone
-Ingredient Name:  Meadowfoam Estolide
-    Potential Alarm: mea
 
+
+====AVEENO DAILY MOISTURIZING LOTION====
+None of the ingredients raise alarms
+
+====PANTENE Essential Oils by Pantene, Mint & Ginseng Shampoo====
+Ingredient Name: Sodium Laureth Sulfate
+    Potential Alarm: sodium laureth sulfate
+Ingredient Name: Sodium Lauryl Sulfate
+    Potential Alarm: lauryl sulfate
+Ingredient Name: Tetrasodium EDTA
+    Potential Alarm: edta
+Ingredient Name: PEG-60 Almond Glycerides
+    Potential Alarm: peg
+Ingredient Name: Methylchloroisothiazolinone
+    Potential Alarm: methylchloroisothiazolinone
+Ingredient Name: Methylisothiazolinone
+    Potential Alarm: methylisothiazolinone
+
+
+====COSRX ADVANCED SNAIL RADIANCE DUAL ESSENCE====
+None of the ingredients raise alarms
+
+====COSRX Advanced Snail 92 All in one Cream====
+None of the ingredients raise alarms
+
+====THE ORDINARY Hyaluronic Acid 2% + B5====
+None of the ingredients raise alarms
 

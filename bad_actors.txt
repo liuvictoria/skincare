@@ -9,7 +9,7 @@ paraben
 peg
 polyethylene glycol
 ethylene oxide
-14-dioxane
+dioxane
 retinol
 formaldehyde
 quaternium-15
@@ -29,7 +29,6 @@ bha
 bht
 coal
 edta
-mea
 dea
 hydroquinone
 methylisothiazolinone

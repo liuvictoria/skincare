@@ -11,7 +11,7 @@ with open("ingredients.txt") as in_file:
 # check ingredients txt file is formatted correctly
 for idx_line, line in enumerate(lines):
     if "====" in line:
-        assert idx_line + 1 < len(lines), "no ingredients after product name" 
+        assert idx_line + 1 < len(lines), "no ingredients after product name"
         assert "====" not in lines[idx_line + 1], "ingredients need to be listed in the line after product name"
         assert "," in lines[idx_line + 1], "ingredients need to be listed in the line after product name"
         if idx_line + 2 < len(lines):
@@ -25,9 +25,9 @@ for idx_line, line in enumerate(lines):
 
 # create file for results
 with open('alarms_results.txt', 'w') as out_file:
-
     # iterate thru products
-    for product in products:    
+    for product in products:
+        
         ingredients = products[product]
         # everything lowercase for string matching
         lowercase_ingredients = ingredients.lower()
@@ -40,7 +40,7 @@ with open('alarms_results.txt', 'w') as out_file:
             for bad_actor in bad_actors:
                 if bad_actor in lowercase_ingredient:
                     has_alarms = True
-                    out_file.write(f"Ingredient Name: {ingredients[idx_ingredient]}\n")
+                    out_file.write(f"Ingredient Name: {ingredients[idx_ingredient].rstrip().lstrip()}\n")
                     out_file.write(f"    Potential Alarm: {bad_actor}\n")
                     continue
         if not has_alarms:
